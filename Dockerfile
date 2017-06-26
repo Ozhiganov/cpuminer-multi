@@ -5,8 +5,8 @@
 #
 #
 
-FROM		ubuntu:12.10
-MAINTAINER	Guillaume J. Charmes <guillaume@charmes.net>
+FROM ubuntu:16.04
+MAINTAINER Evgeniy Ozhiganov <eozhiganov@gail.com>
 
 RUN		apt-get update -qq
 
